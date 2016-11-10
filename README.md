@@ -2,4 +2,4 @@
 All about technologies from my perspective
 
 ## Doc notes
-[unix](programming-craft/unix.md)
+[unix](unix.md)
