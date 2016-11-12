@@ -12,4 +12,9 @@ Lists the status of all running background jobs.
 
 `jobs`
 
+## port forwarding [doc](https://linux.die.net/man/1/ssh)
+
+`ssh -nNT -L host_post:remove_host_name:remove_port username@server_name`
+example `ssh -nNT -L 9000:localhost:5432 user@example.com`
+
 
