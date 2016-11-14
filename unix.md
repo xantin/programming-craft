@@ -2,6 +2,13 @@
 
 Here will be summary of me known commands
 
+## uname [doc](https://linux.die.net/man/1/uname)
+print system information
+
+`uname`
+
+e.i. `uname -s`
+
 ## scp [doc](https://linux.die.net/man/1/scp)
 copies files between hosts on a network
 
