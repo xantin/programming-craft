@@ -2,6 +2,13 @@
 
 Here will be summary of me known commands
 
+## lsb_release [doc](https://linux.die.net/man/1/lsb_release)
+print distribution-specific information
+
+`lsb_release`
+
+e.i. `lsb_release -a`
+
 ## uname [doc](https://linux.die.net/man/1/uname)
 print system information
 
