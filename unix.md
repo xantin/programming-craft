@@ -2,6 +2,13 @@
 
 Here will be summary of me known commands
 
+## type [doc](https://en.wikipedia.org/wiki/Type_(Unix))
+type is a command that describes how its arguments would be interpreted if used as command names.
+ 
+`type command_name`
+
+e.i. `type nodejs`
+
 ## lsb_release [doc](https://linux.die.net/man/1/lsb_release)
 print distribution-specific information
 
