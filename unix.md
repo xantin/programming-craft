@@ -2,7 +2,7 @@
 
 Here will be summary of me known commands
 
-## type [doc](https://en.wikipedia.org/wiki/Type_(Unix))
+## type [doc](http://linuxcommand.org/lc3_man_pages/typeh.html)
 type is a command that describes how its arguments would be interpreted if used as command names.
  
 `type command_name`
