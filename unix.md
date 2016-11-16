@@ -33,6 +33,8 @@ Lists the status of all running background jobs.
 
 `jobs`
 
+with command *fg number_of_process* you move process form background to foreground and than you can kill it with ctrl + c
+
 ## port forwarding [doc](https://linux.die.net/man/1/ssh)
 
 `ssh -nNT -L host_post:remove_host_name:remove_port username@server_name`
