@@ -28,6 +28,8 @@ copies files between hosts on a network
 
 `scp user@server1:/path/to/file user@server2:/where/to/put`
 
+for copy directory use `scp -r user@server1:/path/to/folder user@server2:/where/to/put`
+
 ## jobs [more about working with processes](https://kb.iu.edu/d/afnw)
 Lists the status of all running background jobs.
 
