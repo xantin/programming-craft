@@ -2,7 +2,7 @@
 ![Influx structure][influx_structure]
 
 ## Telegraph
-Collects timme-series data from a variaty of sources
+Collects time-series data from a variaty of sources
 
 ## InfluxDB
 Delivers high performance writes and efficiently stores time-series data
