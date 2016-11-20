@@ -3,7 +3,7 @@
 ## Telegraph
 Collects time-series data from a variaty of sources
 
-## InfluxDB
+## [InfluxDB](influxdb.md)
 Delivers high performance writes and efficiently stores time-series data
 
 ## Chronograph
