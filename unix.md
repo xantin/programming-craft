@@ -6,6 +6,15 @@ Here will be summary of me known commands
 
 OpenSSL is a cryptography toolkit implementing the Secure Sockets Layer ( SSL v2/v3) and Transport Layer Security ( TLS v1) network protocols and related cryptography standards required by them.
 
+o  Creation and management of private keys, public keys and parameters
+o  Public key cryptographic operations
+o  Creation of X.509 certificates, CSRs and CRLs
+o  Calculation of Message Digests
+o  Encryption and Decryption with Ciphers
+o  SSL/TLS Client and Server Tests
+o  Handling of S/MIME signed or encrypted mail
+o  Time Stamp requests, generation and verification
+
 ## type [doc](http://linuxcommand.org/lc3_man_pages/typeh.html)
 type is a command that describes how its arguments would be interpreted if used as command names.
  
