@@ -9,7 +9,7 @@ Delivers high performance writes and efficiently stores time-series data
 ## [Chronograph](chronograph.md)
 Visualizes and graphs thetime-series data stored in InfluxDB
 
-## [Capacitator](capacitor.md)
+## [Kapacitator](kapacitor.md)
 Providing alerting, ETL and detects anomalies in time-series data
 
 ![Influx structure][influx_structure]
