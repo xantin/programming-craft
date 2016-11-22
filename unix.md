@@ -23,6 +23,8 @@ Use cases
 *  Handling of S/MIME signed or encrypted mail
 *  Time Stamp requests, generation and verification
 
+[Generating a self-signed certificate pair](https://core.telegram.org/bots/self-signed)
+
 ## type [doc](http://linuxcommand.org/lc3_man_pages/typeh.html)
 type is a command that describes how its arguments would be interpreted if used as command names.
  
