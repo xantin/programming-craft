@@ -15,6 +15,9 @@
 * Throughput distribution by API endpoint (Do you have any endpoint that gets substantially more traffic than any others?)
 * Throughput distribution by users (A few generate most traffic, or is it more evenly distributed?)
 
+## Tools for testing
+
+* https://github.com/tsenart/vegeta
 
 sources:
 
