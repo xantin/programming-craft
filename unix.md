@@ -2,6 +2,12 @@
 
 Here will be summary of me known commands
 
+## delete install program from unix
+
+`sudo apt-get purge PROGRAM_NAME
+sudo apt-get autoremove --purge PROGRAM_NAME
+sudo apt-get autoclean`
+
 ## openssl [doc](https://linux.die.net/man/1/openssl)
 
 OpenSSL is a cryptography toolkit implementing the Secure Sockets Layer ( SSL v2/v3) and Transport Layer Security ( TLS v1) network protocols and related cryptography standards required by them.
