@@ -4,9 +4,9 @@ Here will be summary of me known commands
 
 ## delete install program from unix
 
-`sudo apt-get purge PROGRAM_NAME
-sudo apt-get autoremove --purge PROGRAM_NAME
-sudo apt-get autoclean`
+* `sudo apt-get purge PROGRAM_NAME`
+* `sudo apt-get autoremove --purge PROGRAM_NAME`
+* `sudo apt-get autoclean`
 
 ## openssl [doc](https://linux.die.net/man/1/openssl)
 
