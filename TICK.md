@@ -6,7 +6,7 @@ Collects time-series data from a variaty of sources
 ## [InfluxDB](influxdb.md)
 Delivers high performance writes and efficiently stores time-series data
 
-## [Chronograph](chronograph.md)
+## [Chronograf](chronograf.md)
 Visualizes and graphs thetime-series data stored in InfluxDB
 
 ## [Kapacitator](kapacitor.md)
