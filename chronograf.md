@@ -1,4 +1,4 @@
-# Chronograph
+# Chronograf
 
 * Simple installation and configuration
 * Tight integration with InfluxDB making getting connected to data easy
