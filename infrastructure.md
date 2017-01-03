@@ -17,6 +17,7 @@ You can really fast set it up and run it. It has multiple plugguins e.i. cpu and
 
 `sudo apt-get -y install collectd collectd-utils`
 
+collectd configure file is located in `/etc/collectd/collectd.conf`
 
 
 
