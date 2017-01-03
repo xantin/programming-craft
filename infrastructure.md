@@ -10,6 +10,7 @@ I just run `sudo tcpdump -i any udp port 25826`
 
 After long-time-consuming digging I discovered program name [collectd](https://collectd.org/).
 You can really fast set it up and run it. It has multiple plugguins e.i. cpu and memory usage.
+[Very good tutorial](https://blog.laputa.io/try-influxdb-and-grafana-by-docker-6b4d50c6a446#.9gx6os1fx)
 [Here are useful scrips](https://github.com/vishal-biyani/collectd-influxdb-grafana/tree/master/scripts)
 
 ### set up (unix)
