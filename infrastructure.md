@@ -12,8 +12,8 @@ After long-time-consuming digging I discovered program name [collectd](https://c
 You can really fast set it up and run it. It has multiple plugguins e.i. cpu and memory usage.
 
 ### set up (unix)
-`sudo apt-get update
-sudo apt-get -y install collectd collectd-utils`
+`sudo apt-get update`
+`sudo apt-get -y install collectd collectd-utils`
 
 
 
