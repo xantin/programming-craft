@@ -29,7 +29,8 @@ used tools:
 
 One thing about Influxdb is very bad and it's no clustering at all, why is bad => not so easy horizontal scale.
 
-
+### check out if tunnel is open
+`nc -z localhost 6000 || echo 'no tunnel open'`
 
 
 
