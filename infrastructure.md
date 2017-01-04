@@ -21,6 +21,15 @@ You can really fast set it up and run it. It has multiple plugguins e.i. cpu and
 
 collectd configure file is located in `/etc/collectd/collectd.conf`
 
+used tools:
+
+* collectd with plugins (network pluging for sending data out of local machine)
+* influxdb for storing timeseries data, I like design this database, but should try to use another one as well
+* grafana for nice presentation data (is very mature that is why I used it instead of chronograf)
+
+One thing about Influxdb is very bad and it's no clustering at all, why is bad => not so easy horizontal scale.
+
+
 
 
 
