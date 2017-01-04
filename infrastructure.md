@@ -32,5 +32,7 @@ One thing about Influxdb is very bad and it's no clustering at all, why is bad =
 ### check out if tunnel is open
 `nc -z localhost 6000 || echo 'no tunnel open'`
 
-
+### how to find out if command is running?
+use htop tool `apt-get install htop` and search (F3) your command.
+This way you can find runing open ssh tunnel and close it
 
