@@ -72,3 +72,8 @@ e.i. `ssh -nNT -L 9000:localhost:5432 user@example.com`
 The man Command. The man command is used to format and display the man pages. The man pages are a user manual that is by default built into most Linux distributions (i.e., versions) and most other Unix-like operating systems during installation.
 
 e.i. `man ssh`
+
+## [free](https://linux.die.net/man/1/free)
+free - Display amount of free and used memory in the system
+
+`free -h` display in human format
