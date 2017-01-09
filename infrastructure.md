@@ -1,5 +1,7 @@
 # Tips about infrastructure
 
+* [network sniffer](#network-sniffer)
+
 ## network sniffer
 I needed to find if collectd is sending data out to the network (specifically to another server)
 I set up everthing as in tutorial and the question was "what now"?
