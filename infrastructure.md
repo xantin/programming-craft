@@ -1,6 +1,12 @@
 # Tips about infrastructure
 
 * [network sniffer](#network-sniffer)
+* [monitoring your servers](#monitoring-your-servers)
+* [set up (unix)](#set up (unix))
+* [check out if tunnel is open](#network-sniffer)
+* [how to find out if command is running?]()
+* [transport data between 2 streams]()
+
 
 ## network sniffer
 I needed to find if collectd is sending data out to the network (specifically to another server)
