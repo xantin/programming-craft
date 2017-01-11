@@ -49,3 +49,6 @@ This way you can find runing open ssh tunnel and close it
 `socat -T15 udp4-recvfrom:25826,reuseaddr,fork tcp:localhost:4444 &`
 
 examplete transports UDP 25826 to TCP 4444
+
+another network sniffer is *ngrep*
+`ngrep -d any -W byline port 2003`
