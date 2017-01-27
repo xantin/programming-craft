@@ -3,7 +3,7 @@
 * [network sniffer](#network-sniffer)
 * [monitoring your servers](#monitoring-your-servers)
 * [set up (unix)](#set-up-unix)
-* [check out if tunnel is open](#check-out-if-tunne-is-opened)
+* [check out if tunnel is open](#check-out-if-tunnel-is-opened)
 * [how to find out if command is running?](#how-to-find-out-if-command-is-running)
 * [transport data between 2 streams](#transport-data-between-2-streams)
 
