@@ -8,6 +8,7 @@
 * [transport data between 2 streams](#transport-data-between-2-streams)
 
 
+
 ## network sniffer
 I needed to find if collectd is sending data out to the network (specifically to another server)
 I set up everthing as in tutorial and the question was "what now"?
@@ -47,6 +48,9 @@ This way you can find runing open ssh tunnel and close it
 ### transport data between 2 streams
 [socat](https://linux.die.net/man/1/socat)
 `socat -T15 udp4-recvfrom:25826,reuseaddr,fork tcp:localhost:4444 &`
+
+### generate file with certain size and content 
+[Nice description of different needs](http://www.skorks.com/2010/03/how-to-quickly-generate-a-large-file-on-the-command-line-with-linux/)
 
 examplete transports UDP 25826 to TCP 4444
 
