@@ -32,7 +32,7 @@ type is a command that describes how its arguments would be interpreted if used 
 
 e.i. `type nodejs`
 
-## lsb_release [doc](https://linux.die.net/man/1/lsb_release)
+## lsb_release [doc](https://linux.die.net/man/1/lsb_release) or `cat /etc/os-release`
 print distribution-specific information
 
 `lsb_release`
